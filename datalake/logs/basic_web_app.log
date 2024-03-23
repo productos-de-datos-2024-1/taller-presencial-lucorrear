@@ -1,0 +1,57 @@
+2024-03-23 12:01:06,482:INFO:Starting the application
+2024-03-23 12:01:06,509:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:01:06,509:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:01:06,511:INFO: * Restarting with stat
+2024-03-23 12:01:07,466:INFO:Starting the application
+2024-03-23 12:01:07,472:WARNING: * Debugger is active!
+2024-03-23 12:01:07,474:INFO: * Debugger PIN: 160-378-803
+2024-03-23 12:02:50,247:INFO:127.0.0.1 - - [23/Mar/2024 12:02:50] "GET / HTTP/1.1" 200 -
+2024-03-23 12:02:50,322:INFO:127.0.0.1 - - [23/Mar/2024 12:02:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 12:05:30,386:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:05:31,896:INFO:Prediction: 155849.9
+2024-03-23 12:05:31,897:INFO:127.0.0.1 - - [23/Mar/2024 12:05:31] "POST / HTTP/1.1" 200 -
+2024-03-23 12:05:41,837:INFO:User values: {'bedrooms': 2.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:05:41,840:INFO:Prediction: 224731.16
+2024-03-23 12:05:41,841:INFO:127.0.0.1 - - [23/Mar/2024 12:05:41] "POST / HTTP/1.1" 200 -
+2024-03-23 12:06:05,107:INFO:Application terminated
+2024-03-23 12:06:05,367:INFO:Application terminated
+2024-03-23 12:13:33,311:INFO:Starting the application
+2024-03-23 12:13:33,330:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:13:33,331:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:13:33,332:INFO: * Restarting with stat
+2024-03-23 12:13:34,228:INFO:Starting the application
+2024-03-23 12:13:34,234:WARNING: * Debugger is active!
+2024-03-23 12:13:34,236:INFO: * Debugger PIN: 160-378-803
+2024-03-23 12:16:19,931:INFO:User values: {'bedrooms': 2.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:20,803:INFO:Prediction: 224731.16
+2024-03-23 12:16:20,806:INFO:127.0.0.1 - - [23/Mar/2024 12:16:20] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:24,673:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:24,678:INFO:Prediction: 155849.9
+2024-03-23 12:16:24,678:INFO:127.0.0.1 - - [23/Mar/2024 12:16:24] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:30,138:INFO:User values: {'bedrooms': 2.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:30,143:INFO:Prediction: 224731.16
+2024-03-23 12:16:30,144:INFO:127.0.0.1 - - [23/Mar/2024 12:16:30] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:41,601:INFO:User values: {'bedrooms': 2.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:41,605:INFO:Prediction: 224731.16
+2024-03-23 12:16:41,607:INFO:127.0.0.1 - - [23/Mar/2024 12:16:41] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:52,639:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:52,643:INFO:Prediction: 171805.74
+2024-03-23 12:16:52,643:INFO:127.0.0.1 - - [23/Mar/2024 12:16:52] "POST / HTTP/1.1" 200 -
+2024-03-23 12:29:53,451:INFO:Application terminated
+2024-03-23 12:29:53,720:INFO:Application terminated
+2024-03-23 12:32:22,162:INFO:Starting the application
+2024-03-23 12:32:22,186:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:32:22,186:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:32:22,187:INFO: * Restarting with stat
+2024-03-23 12:32:23,212:INFO:Starting the application
+2024-03-23 12:32:23,219:WARNING: * Debugger is active!
+2024-03-23 12:32:23,221:INFO: * Debugger PIN: 160-378-803
+2024-03-23 12:32:33,970:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:32:35,124:INFO:Prediction: 171805.74
+2024-03-23 12:32:35,124:INFO:127.0.0.1 - - [23/Mar/2024 12:32:35] "POST / HTTP/1.1" 200 -
+2024-03-23 12:32:45,316:INFO:User values: {'bedrooms': 1.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:32:45,320:INFO:Prediction: 293612.42
+2024-03-23 12:32:45,321:INFO:127.0.0.1 - - [23/Mar/2024 12:32:45] "POST / HTTP/1.1" 200 -
