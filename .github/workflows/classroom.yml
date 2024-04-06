@@ -2,6 +2,7 @@ name: Autograding Tests
 'on':
 - push
 - workflow_dispatch
+- repository_dispatch
 permissions:
   checks: write
   actions: read
@@ -107,4 +108,4 @@ jobs:
         TEST-7A-DOCKER-API-SERVER_RESULTS: "${{steps.test-7a-docker-api-server.outputs.result}}"
         TEST-7B-DOCKER-API-CLIENT_RESULTS: "${{steps.test-7b-docker-api-client.outputs.result}}"
       with:
-        runners: test-1-datalake,test-2-database,test-3-pipeline,test-4-model,test-5-basic-web-app,test-6a-api-client,test-6b-api-server,test-7a-docker-api-server,test-7b-docker-api-client
+        runners: test-1-datalake,test-2-database,test-3-pipeline,test-4-model,test-5-basic-web-app,test-6a-api-server,test-6b-api-client,test-7a-docker-api-server,test-7b-docker-api-client
