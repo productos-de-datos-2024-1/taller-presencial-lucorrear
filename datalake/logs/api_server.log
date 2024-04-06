@@ -1,0 +1,31 @@
+2024-04-06 07:33:05,619:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:33:05,619:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:33:05,626:INFO: * Restarting with stat
+2024-04-06 07:33:06,537:WARNING: * Debugger is active!
+2024-04-06 07:33:06,537:INFO: * Debugger PIN: 160-378-803
+2024-04-06 07:49:45,382:INFO:127.0.0.1 - - [06/Apr/2024 07:49:45] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:59:03,145:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:59:03,145:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:59:03,145:INFO: * Restarting with stat
+2024-04-06 07:59:03,981:WARNING: * Debugger is active!
+2024-04-06 07:59:03,985:INFO: * Debugger PIN: 160-378-803
+2024-04-06 07:59:26,548:INFO:127.0.0.1 - - [06/Apr/2024 07:59:26] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:04:49,601:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:05:18,393:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:05:18,393:INFO:127.0.0.1 - - [06/Apr/2024 08:05:18] "POST / HTTP/1.1" 200 -
+2024-04-06 08:18:15,717:INFO: * Detected change in 'C:\\Users\\Luisa Correa\\OneDrive\\Documentos\\GitHub\\taller-presencial-lucorrear\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:18:16,150:INFO: * Restarting with stat
+2024-04-06 08:18:17,637:WARNING: * Debugger is active!
+2024-04-06 08:18:17,640:INFO: * Debugger PIN: 160-378-803
+2024-04-06 08:24:30,140:INFO: * Detected change in 'C:\\Users\\Luisa Correa\\OneDrive\\Documentos\\GitHub\\taller-presencial-lucorrear\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:24:30,273:INFO: * Restarting with stat
+2024-04-06 08:24:31,134:WARNING: * Debugger is active!
+2024-04-06 08:24:31,137:INFO: * Debugger PIN: 160-378-803
+2024-04-06 08:25:02,137:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:25:03,143:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:25:03,143:INFO:127.0.0.1 - - [06/Apr/2024 08:25:03] "POST / HTTP/1.1" 200 -
+2024-04-06 09:23:54,263:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:23:54,323:INFO:Prediction: [155849.90294016]
+2024-04-06 09:23:54,329:INFO:127.0.0.1 - - [06/Apr/2024 09:23:54] "POST / HTTP/1.1" 200 -
